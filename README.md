@@ -12,6 +12,7 @@ Install dependencies based on  `environment.yml` file.
 #### Run it!
 
 We have already provided the processed data of BNCI2014001 of MOABB (details see paper) under ./data/
+
 To use other datasets, follow a similar format.
 
 Run
