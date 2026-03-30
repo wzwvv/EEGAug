@@ -1,7 +1,11 @@
-# EEG Data Augmentation
+# Channel Reflection (CR)
 
 Welcome! This repo studies data augmentation approaches for EEG analysis, specifically for brain-computer interface (BCI) applications.
 The official implementation of Channel Reflection (CR), of paper [`Channel Reflection: Knowledge-Driven Data Augmentation for EEG-Based Brain-Computer Interfaces`](https://www.sciencedirect.com/science/article/pii/S0893608024002752) (**Neural Networks, 2024**)
+
+## News
+📰 News: The original EEG trials of our seizure dataset CHSZ are now publicly available on [Zenodo](https://zenodo.org/records/19333249).
+
 
 ## Steps for Usage:
 
